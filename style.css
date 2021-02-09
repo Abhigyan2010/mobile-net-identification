@@ -1,0 +1,36 @@
+.header_div{
+    background-color: white;
+    color: #ce2700;
+}
+.header_div img{
+    width: 100px;
+}
+body{
+    background-color: pink;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+.footer_div img{
+    width: 70px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+}
+label{
+    font-size:30px;
+    background-color: white;
+    margin-top: 50px;
+}
